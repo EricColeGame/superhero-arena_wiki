@@ -28,6 +28,6 @@ export const siteConfig: SiteConfig = {
   supportEmail: "support@superhero-arena.wiki",
   gameUrl: "https://www.roblox.com/games/78710221869926/Superhero-Arena",
   heroVideoId: "57JHZd2IMfE", // Superhero Arena all abilities gameplay showcase
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "pt", "es", "de"],
   defaultLocale: "en",
 };
