@@ -9,7 +9,15 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "combat": "Combat",
+    "progression": "Progression",
+    "codes": "Codes",
+    "controls": "Controls",
+    "items": "Items",
+    "maps": "Maps"
   },
   "home": {
     "meta": {
@@ -409,7 +417,38 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Superhero Arena Guide: How to Play, Tips, and Updates",
+    "overviewDescription": "Start with verified Superhero Arena basics, including the first-session loop, documented controls, practical tips, and official update information."
+  },
+  "characters": {
+    "overviewTitle": "Superhero Arena Characters: Heroes, Abilities, and Tier List",
+    "overviewDescription": "Explore Superhero Arena heroes, named playable examples, abilities, unlock paths, skins, and tier-list coverage."
+  },
+  "combat": {
+    "overviewTitle": "Superhero Arena Combat: PvP, Battles, and Arena Tips",
+    "overviewDescription": "Learn how Superhero Arena combat works, from arena fights and PvP pacing to practical decisions during a 15-player match."
+  },
+  "progression": {
+    "overviewTitle": "Superhero Arena Progression: Coins, Levels, and Upgrades",
+    "overviewDescription": "Follow Superhero Arena progression guides covering coins, rewards, leveling, and upgrades as you build toward stronger heroes."
+  },
+  "codes": {
+    "overviewTitle": "Superhero Arena Codes: Verified Status and Redemption Guide",
+    "overviewDescription": "Check the verified status of Superhero Arena codes, learn whether a redemption system exists, and avoid unsafe third-party offers."
+  },
+  "controls": {
+    "overviewTitle": "Superhero Arena Controls: Keyboard, Flying, and Abilities",
+    "overviewDescription": "Review Superhero Arena controls and abilities, including the documented Q Dash input, flight questions, and power guides."
+  },
+  "items": {
+    "overviewTitle": "Superhero Arena Items: Skins, Outfits, Costumes, and Equipment",
+    "overviewDescription": "Browse Superhero Arena item guides for skins, outfits, costumes, equipment, and the cosmetic choices available to heroes."
+  },
+  "maps": {
+    "overviewTitle": "Superhero Arena Maps: Locations and Secret Areas",
+    "overviewDescription": "Explore Superhero Arena map guides covering known locations, arena layouts, and secret-location coverage."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
