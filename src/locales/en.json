@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Superhero Arena Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Choose a hero, learn the documented Q Dash control, and follow the defeat-to-unlock loop in your first arena matches."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Hero Selection",
+          "description": "Meet Spider-Man, Iron Man, Aquaman, Deadpool, and other named heroes, then find the live moveset that fits your style."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Unlock Heroes",
+          "description": "Defeat other players to unlock new heroes, then work toward Thanos, the warlord goal named on the Roblox page."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Combat Basics",
+          "description": "Use Q to dash deliberately, learn your hero in the live interface, and keep track of rivals in 15-player arenas."
         }
       ]
     },
@@ -66,78 +66,78 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Hero Tier List",
+        "Beginner Guide",
+        "Code Status",
+        "Combat Tips"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Choose a hero, use Q to dash, and learn the defeat-to-unlock loop in your first matches.",
+          "href": "/guide/superhero-arena-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Status",
+          "title": "Code Status",
+          "description": "Check the official code status and safe redemption guidance for Superhero Arena.",
+          "href": "/codes/superhero-arena-codes"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Hero Tier List",
+          "description": "Review the named heroes and what Roblox lists about stats, rankings, and unlocks.",
+          "href": "/characters/superhero-arena-hero-tier-list"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Best Hero Guide",
+          "description": "Compare the named playable examples and learn how to evaluate each hero in the live arena.",
+          "href": "/characters/superhero-arena-best-hero"
+        },
+        {
+          "badge": "New",
+          "title": "Hero Abilities",
+          "description": "See which ability details Roblox lists and what to check in the live interface.",
+          "href": "/characters/superhero-arena-abilities"
+        },
+        {
+          "badge": "Guide",
+          "title": "Controls Guide",
+          "description": "Learn the documented Q Dash control and the inputs not listed by the official page.",
+          "href": "/controls/superhero-arena-controls"
+        },
+        {
+          "badge": "Progression",
+          "title": "Unlock Heroes",
+          "description": "Follow the defeat-to-unlock path and the Thanos warlord goal.",
+          "href": "/characters/superhero-arena-unlock-heroes"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Combat Guide",
+          "description": "Practical arena advice for hero choice, dash timing, and 15-player fights.",
+          "href": "/combat/superhero-arena-combat"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Update Tracker",
+          "description": "Track the official listing dates, named heroes, and update details.",
+          "href": "/guide/superhero-arena-update"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Superhero Arena?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Superhero Arena is a Roblox action battlegrounds and fighting game from The Duelists. Players choose a hero, battle rivals in servers of up to 15, and defeat other players to unlock additional heroes, with Thanos presented as the long-term warlord goal.",
+        "The official Roblox page names Spider-Man, Iron Man, Aquaman, Deadpool, and more as playable examples, and documents Q as the Dash control. Superhero Arena is available through Roblox on Windows, macOS, iOS, Android, Xbox, and PlayStation."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "The Duelists"
         },
         {
           "label": "Platform",
@@ -145,186 +145,260 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Battlegrounds"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "6.3M+"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
+          "value": "23K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Server Size",
+          "value": "15 Players"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Launched",
+          "value": "Sep 6, 2026"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Superhero Arena Wiki",
+      "description": "Learn the hero roster, first-session loop, documented controls, unlock path, combat priorities, and official update details for Superhero Arena.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Superhero Arena Heroes",
+          "description": "Explore the playable heroes named for Superhero Arena, including Spider-Man, Iron Man, Aquaman, Deadpool, and the Thanos unlock goal.",
+          "href": "/characters/superhero-arena-best-hero",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Spider-Man",
+              "detail": "Named as a playable hero example on the official Roblox page."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Iron Man",
+              "detail": "Listed among the playable hero examples for Superhero Arena."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Aquaman",
+              "detail": "Named alongside Spider-Man and Iron Man as a hero example."
+            },
+            {
+              "label": "Deadpool",
+              "detail": "Named as another playable example on the Roblox listing."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Superhero Arena Beginner Guide",
+          "description": "Learn the first-session loop: choose a hero, use Q to dash, defeat players to unlock heroes, and work toward Thanos.",
+          "href": "/guide/superhero-arena-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Open Superhero Arena through Roblox on a supported platform."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Choose a hero from the live roster before entering battle."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Use Q to Dash while you learn the arena and its pacing."
+            },
+            {
+              "label": "4",
+              "detail": "Defeat other players to unlock new heroes."
+            },
+            {
+              "label": "5",
+              "detail": "Work toward Thanos, the warlord goal named on the Roblox page."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Superhero Arena Tier List",
+          "description": "Review the named hero examples and the official boundaries around stats, rankings, and unlock details.",
+          "href": "/characters/superhero-arena-hero-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "No published ranking: Roblox lists no hero stats, tiers, or win rates."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Named examples: Spider-Man, Iron Man, Aquaman, and Deadpool appear on the listing."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Unlock loop: defeating players is the documented route to new heroes."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Thanos goal: named as the warlord target, with no power ranking published."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Superhero Arena Codes",
+          "description": "Check the current code status and learn safe practices for handling Superhero Arena code offers.",
+          "href": "/codes/superhero-arena-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Status",
+              "detail": "No active Superhero Arena codes are listed on the official Roblox page."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Redeem",
+              "detail": "The official page describes no code-entry menu for Superhero Arena."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Safety",
+              "detail": "Never use third-party generators or share Roblox account details."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Superhero Arena Controls",
+          "description": "Review the documented Q Dash control and the status of movement, attacks, abilities, and flight.",
+          "href": "/controls/superhero-arena-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Q",
+              "detail": "Dash is the only Superhero Arena control documented on the Roblox page."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Attacks",
+              "detail": "Roblox does not list a basic attack binding for Superhero Arena."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Abilities",
+              "detail": "Hero ability inputs and cooldowns are not listed on the official page."
+            },
+            {
+              "label": "Flight",
+              "detail": "No flight control is documented for Superhero Arena."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Superhero Arena Unlock Guide",
+          "description": "Follow the confirmed path to new heroes, from your first defeats to the Thanos warlord goal.",
+          "href": "/characters/superhero-arena-unlock-heroes",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Join Superhero Arena and choose a starting hero."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Enter a battleground with up to 15 players."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Defeat other players to progress toward new hero unlocks."
+            },
+            {
+              "label": "4",
+              "detail": "Check the live roster for the heroes available to you."
+            },
+            {
+              "label": "5",
+              "detail": "Work toward Thanos, the named warlord unlock goal."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Superhero Arena Combat Tips",
+          "description": "Improve arena performance with practical advice for hero choice, dash timing, engagement, and 15-player fights.",
+          "href": "/combat/superhero-arena-combat",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Dash",
+              "detail": "Q is the documented Dash control; watch its behavior in the live arena."
+            },
+            {
+              "label": "Hero",
+              "detail": "Learn one hero first and read the ability prompts shown in the live interface."
+            },
+            {
+              "label": "Arena",
+              "detail": "Servers hold up to 15 players, so keep track of nearby rivals."
+            },
+            {
+              "label": "Unlocks",
+              "detail": "Defeating players is the documented route to new heroes."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Superhero Arena Updates",
+          "description": "Track the official Roblox listing dates, named heroes, and published update details for Superhero Arena.",
+          "href": "/guide/superhero-arena-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Launch",
+              "detail": "The official Roblox listing was created on September 6, 2026."
+            },
+            {
+              "label": "Update",
+              "detail": "The listing shows an update date of October 29, 2026."
+            },
+            {
+              "label": "Roster",
+              "detail": "Spider-Man, Iron Man, Aquaman, Deadpool, and more are named as hero examples."
+            },
+            {
+              "label": "Patches",
+              "detail": "The Roblox page publishes no patch notes with its update timestamp."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Superhero Arena FAQ",
+      "description": "Quick answers to the most common questions about Superhero Arena.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Superhero Arena?",
+          "answer": "Superhero Arena is a Roblox action battlegrounds and fighting game from The Duelists. Players choose a hero, fight rivals in servers of up to 15, and defeat players to unlock new heroes, with Thanos as the named long-term goal."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you unlock heroes in Superhero Arena?",
+          "answer": "Defeat other players. The official Roblox page confirms that defeating players unlocks new heroes and names Thanos as the warlord goal, while exact thresholds and unlock order are not listed."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Does Superhero Arena have codes?",
+          "answer": "The official Roblox page lists no active Superhero Arena codes or code-entry menu as of October 29, 2026. Avoid third-party generators and never share Roblox account details."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What controls does Superhero Arena use?",
+          "answer": "Q is the documented Dash control in Superhero Arena. The official Roblox page does not list basic attack, hero ability, or flight bindings."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is Thanos the strongest hero in Superhero Arena?",
+          "answer": "Roblox describes Thanos as the warlord and long-term unlock goal in Superhero Arena. The page publishes no stats or hero rankings, so no official strongest-hero ranking exists."
         }
       ]
     },
