@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Superhero Arena Wiki",
+    "shortName": "Superhero Arena",
+    "tagline": "Hero Guides, Abilities, Codes & Arena Strategies",
+    "description": "Superhero Arena Wiki provides hero guides, codes, abilities, combat tips, and gameplay strategies to help players master every arena battle.",
+    "legalNotice": "Non-official fan wiki. Not affiliated with The Duelists or Roblox."
   },
   "nav": {
     "races": "Races",
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Superhero Arena Wiki - Codes, Heroes & Guides",
+      "description": "Superhero Arena Wiki provides hero guides, codes, abilities, combat tips, and gameplay strategies to help players master every arena battle."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Fast-Paced Superhero Combat Arena",
+      "title": "Superhero Arena Wiki",
+      "description": "Superhero Arena is an action combat game where players battle using powerful heroes, unique abilities, and strategic fighting styles in intense arena matches.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "6.3M+ Roblox Visits",
+        "23K+ Favorites",
+        "15 Players per Server",
+        "Daily Guide Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Hero Abilities",
+      "tertiaryCta": "Play on Roblox",
+      "videoLabel": "Gameplay Showcase"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,9 +342,9 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
+      "title": "Ready to Master Superhero Arena?",
+      "description": "Master every hero, ability, and arena matchup with free, up-to-date community guides.",
+      "primary": "Browse Hero Guides",
       "secondary": "Play on Roblox"
     }
   },
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Superhero Arena Wiki",
+    "about": "Superhero Arena Wiki is an independent fan-built guide hub covering heroes, abilities, combat strategies, arena modes, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "copyright": "2026 Superhero Arena Wiki. Not affiliated with The Duelists or Roblox.",
+    "description": "Roblox superhero combat game with unique heroes, abilities, and arena battles.",
+    "playGame": "Play Superhero Arena on Roblox",
+    "officialDiscord": "Roblox Community",
+    "officialYoutube": "Gameplay Showcase",
+    "vvBuilder": "Arena Wiki Guides",
+    "beginnerGuide": "Beginner Guides",
+    "raceGuides": "Heroes & Abilities",
+    "bossGuides": "Arena Guides",
+    "buildGuide": "Skills & Builds",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

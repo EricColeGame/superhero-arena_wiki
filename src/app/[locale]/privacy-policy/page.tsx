@@ -3,9 +3,10 @@ import { LegalPage } from "@/components/legal-page";
 export default function PrivacyPolicyPage() {
   return (
     <LegalPage title="Privacy Policy">
-      <p>This fan wiki provides informational game guides for VV: ULTIMATUM. We do not request account credentials, Roblox passwords, or private payment information.</p>
+      <p>Superhero Arena Wiki provides informational game guides for Superhero Arena. We do not request account credentials, Roblox passwords, or private payment information.</p>
       <p>Basic analytics, advertising, and hosting providers may process standard technical information such as device type, browser, approximate region, and visited pages.</p>
       <p>External links may lead to Roblox, Discord, YouTube, or community tools. Those services are governed by their own privacy policies.</p>
+      <p>Questions about this policy can be sent to <a className="font-semibold text-foreground hover:underline" href="mailto:support@superhero-arena.wiki">support@superhero-arena.wiki</a>.</p>
     </LegalPage>
   );
 }

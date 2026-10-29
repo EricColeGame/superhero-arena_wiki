@@ -23,15 +23,11 @@ export const siteConfig: SiteConfig = {
   shortName: "Superhero Arena",
   logoText: "S",
   tagline: "Hero Guides, Abilities, Codes & Arena Strategies",
-  description: "Your ultimate guide to Superhero Arena on Roblox! Explore hero abilities, combat tips, active codes, tier lists, and arena strategies.",
+  description: "Superhero Arena Wiki provides hero guides, codes, abilities, combat tips, and gameplay strategies to help players master every arena battle.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://superhero-arena.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://superhero-arena.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@superhero-arena.wiki",
   gameUrl: "https://www.roblox.com/games/78710221869926/Superhero-Arena",
   heroVideoId: "57JHZd2IMfE", // Superhero Arena all abilities gameplay showcase
-  social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
-  },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };
