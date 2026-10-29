@@ -1,1 +1,488 @@
-{}
+{
+  "site": {
+    "name": "Superhero Arena Wiki",
+    "shortName": "Superhero Arena",
+    "tagline": "Guías de Héroes, Habilidades, Códigos y Estrategias de Arena",
+    "description": "Superhero Arena Wiki ofrece guías de héroes, códigos, habilidades, consejos de combate y estrategias de juego para ayudar a los jugadores a dominar cada batalla en la arena.",
+    "legalNotice": "Wiki de fans no oficial. Sin afiliación con The Duelists ni Roblox."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "characters": "Héroes",
+    "combat": "Combate",
+    "progression": "Progresión",
+    "codes": "Códigos",
+    "controls": "Controles",
+    "items": "Objetos",
+    "maps": "Mapas"
+  },
+  "home": {
+    "meta": {
+      "title": "Superhero Arena Wiki - Códigos, Héroes y Guías",
+      "description": "Superhero Arena Wiki ofrece guías de héroes, códigos, habilidades, consejos de combate y estrategias de juego para ayudar a los jugadores a dominar cada batalla en la arena."
+    },
+    "hero": {
+      "eyebrow": "Arena de Combate de Superhéroes Vertiginosa",
+      "title": "Superhero Arena Wiki",
+      "description": "Superhero Arena es un juego de combate de acción en el que los jugadores luchan con héroes poderosos, habilidades únicas y estilos de lucha estratégicos en intensas partidas de arena.",
+      "stats": [
+        "Más de 6,3 M de visitas en Roblox",
+        "Más de 23 mil favoritos",
+        "15 jugadores por servidor",
+        "Guías actualizadas a diario"
+      ],
+      "primaryCta": "Guía para Principiantes",
+      "secondaryCta": "Habilidades de Héroes",
+      "tertiaryCta": "Jugar en Roblox",
+      "videoLabel": "Demostración de Juego"
+    },
+    "updates": {
+      "title": "Últimas Actualizaciones",
+      "browse": "Ver Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Empieza Aquí",
+      "title": "Tu Recorrido en Superhero Arena",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para Principiantes",
+          "description": "Elige un héroe, aprende el control Q Dash documentado y sigue el ciclo de derrotar para desbloquear en tus primeras partidas de arena."
+        },
+        {
+          "number": "2",
+          "title": "Selección de Héroe",
+          "description": "Conoce a Spider-Man, Iron Man, Aquaman, Deadpool y otros héroes nombrados, y luego encuentra el conjunto de movimientos en vivo que encaje con tu estilo."
+        },
+        {
+          "number": "3",
+          "title": "Desbloquea Héroes",
+          "description": "Derrota a otros jugadores para desbloquear nuevos héroes y luego avanza hacia Thanos, el objetivo de señor de la guerra nombrado en la página de Roblox."
+        },
+        {
+          "number": "4",
+          "title": "Fundamentos del Combate",
+          "description": "Usa Q para hacer dash de forma deliberada, aprende tu héroe en la interfaz en vivo y controla a los rivales en arenas de 15 jugadores."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendencias Ahora",
+      "quickLinks": [
+        "Lista de Tiers de Héroes",
+        "Guía para Principiantes",
+        "Estado de los Códigos",
+        "Consejos de Combate"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para Principiantes",
+          "description": "Elige un héroe, usa Q para hacer dash y aprende el ciclo de derrotar para desbloquear en tus primeras partidas.",
+          "href": "/guide/superhero-arena-beginner-guide"
+        },
+        {
+          "badge": "Estado",
+          "title": "Estado de los Códigos",
+          "description": "Consulta el estado oficial de los códigos y las indicaciones seguras de canje para Superhero Arena.",
+          "href": "/codes/superhero-arena-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Lista de Tiers de Héroes",
+          "description": "Revisa los héroes nombrados y lo que Roblox indica sobre estadísticas, clasificaciones y desbloqueos.",
+          "href": "/characters/superhero-arena-hero-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía del Mejor Héroe",
+          "description": "Compara los ejemplos jugables nombrados y aprende a evaluar cada héroe en la arena en vivo.",
+          "href": "/characters/superhero-arena-best-hero"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Habilidades de Héroes",
+          "description": "Descubre qué detalles de habilidades enumera Roblox y qué revisar en la interfaz en vivo.",
+          "href": "/characters/superhero-arena-abilities"
+        },
+        {
+          "badge": "Guía",
+          "title": "Guía de Controles",
+          "description": "Aprende el control Q Dash documentado y las entradas que no aparecen en la página oficial.",
+          "href": "/controls/superhero-arena-controls"
+        },
+        {
+          "badge": "Progresión",
+          "title": "Desbloquea Héroes",
+          "description": "Sigue el camino de derrotar para desbloquear y el objetivo del señor de la guerra Thanos.",
+          "href": "/characters/superhero-arena-unlock-heroes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de Combate",
+          "description": "Consejos prácticos de arena para elegir héroe, medir el dash y afrontar peleas de 15 jugadores.",
+          "href": "/combat/superhero-arena-combat"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Seguimiento de Actualizaciones",
+          "description": "Sigue las fechas oficiales del listado, los héroes nombrados y los detalles de las actualizaciones.",
+          "href": "/guide/superhero-arena-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Superhero Arena?",
+      "paragraphs": [
+        "Superhero Arena es un juego de campos de batalla y lucha de acción de Roblox creado por The Duelists. Los jugadores eligen un héroe, se enfrentan a rivales en servidores de hasta 15 jugadores y derrotan a otros jugadores para desbloquear héroes adicionales, con Thanos presentado como el objetivo de señor de la guerra a largo plazo.",
+        "La página oficial de Roblox nombra a Spider-Man, Iron Man, Aquaman, Deadpool y más como ejemplos jugables, y documenta Q como el control de Dash. Superhero Arena está disponible a través de Roblox en Windows, macOS, iOS, Android, Xbox y PlayStation."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "The Duelists"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Battlegrounds"
+        },
+        {
+          "label": "Visitas",
+          "value": "6,3 M+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "23 mil+"
+        },
+        {
+          "label": "Tamaño del servidor",
+          "value": "15 jugadores"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "6 de septiembre de 2026"
+        }
+      ],
+      "cta": "Explorar Todas las Guías"
+    },
+    "explore": {
+      "title": "Explora Superhero Arena Wiki",
+      "description": "Conoce la lista de héroes, el ciclo de la primera sesión, los controles documentados, la ruta de desbloqueo, las prioridades de combate y los detalles oficiales de las actualizaciones de Superhero Arena.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Héroes de Superhero Arena",
+          "description": "Explora los héroes jugables nombrados para Superhero Arena, incluidos Spider-Man, Iron Man, Aquaman, Deadpool y el objetivo de desbloqueo Thanos.",
+          "href": "/characters/superhero-arena-best-hero",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Spider-Man",
+              "detail": "Nombrado como ejemplo de héroe jugable en la página oficial de Roblox."
+            },
+            {
+              "label": "Iron Man",
+              "detail": "Aparece entre los ejemplos de héroes jugables de Superhero Arena."
+            },
+            {
+              "label": "Aquaman",
+              "detail": "Nombrado junto a Spider-Man e Iron Man como ejemplo de héroe."
+            },
+            {
+              "label": "Deadpool",
+              "detail": "Nombrado como otro ejemplo jugable en el listado de Roblox."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para Principiantes de Superhero Arena",
+          "description": "Aprende el ciclo de la primera sesión: elige un héroe, usa Q para hacer dash, derrota jugadores para desbloquear héroes y avanza hacia Thanos.",
+          "href": "/guide/superhero-arena-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Abre Superhero Arena a través de Roblox en una plataforma compatible."
+            },
+            {
+              "label": "2",
+              "detail": "Elige un héroe de la lista en vivo antes de entrar en combate."
+            },
+            {
+              "label": "3",
+              "detail": "Usa Q para hacer Dash mientras aprendes la arena y su ritmo."
+            },
+            {
+              "label": "4",
+              "detail": "Derrota a otros jugadores para desbloquear nuevos héroes."
+            },
+            {
+              "label": "5",
+              "detail": "Avanza hacia Thanos, el objetivo de señor de la guerra nombrado en la página de Roblox."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Lista de Tiers de Superhero Arena",
+          "description": "Revisa los ejemplos de héroes nombrados y los límites oficiales sobre estadísticas, clasificaciones y detalles de desbloqueo.",
+          "href": "/characters/superhero-arena-hero-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Sin clasificación publicada: Roblox no enumera estadísticas, tiers ni porcentajes de victoria de los héroes."
+            },
+            {
+              "label": "A",
+              "detail": "Ejemplos nombrados: Spider-Man, Iron Man, Aquaman y Deadpool aparecen en el listado."
+            },
+            {
+              "label": "B",
+              "detail": "Ciclo de desbloqueo: derrotar jugadores es la ruta documentada hacia nuevos héroes."
+            },
+            {
+              "label": "C",
+              "detail": "Objetivo Thanos: nombrado como objetivo de señor de la guerra, sin clasificación de poder publicada."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Códigos de Superhero Arena",
+          "description": "Consulta el estado actual de los códigos y aprende prácticas seguras para gestionar ofertas de códigos de Superhero Arena.",
+          "href": "/codes/superhero-arena-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Estado",
+              "detail": "No hay códigos activos de Superhero Arena en la página oficial de Roblox."
+            },
+            {
+              "label": "Canje",
+              "detail": "La página oficial no describe ningún menú de introducción de códigos para Superhero Arena."
+            },
+            {
+              "label": "Seguridad",
+              "detail": "Nunca uses generadores de terceros ni compartas los datos de tu cuenta de Roblox."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Controles de Superhero Arena",
+          "description": "Revisa el control Q Dash documentado y el estado del movimiento, los ataques, las habilidades y el vuelo.",
+          "href": "/controls/superhero-arena-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Q",
+              "detail": "Dash es el único control de Superhero Arena documentado en la página de Roblox."
+            },
+            {
+              "label": "Ataques",
+              "detail": "Roblox no indica una tecla de ataque básico para Superhero Arena."
+            },
+            {
+              "label": "Habilidades",
+              "detail": "Las entradas y los tiempos de reutilización de las habilidades de los héroes no aparecen en la página oficial."
+            },
+            {
+              "label": "Vuelo",
+              "detail": "No hay ningún control de vuelo documentado para Superhero Arena."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de Desbloqueo de Superhero Arena",
+          "description": "Sigue la ruta confirmada hacia nuevos héroes, desde tus primeras derrotas hasta el objetivo del señor de la guerra Thanos.",
+          "href": "/characters/superhero-arena-unlock-heroes",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Entra en Superhero Arena y elige un héroe inicial."
+            },
+            {
+              "label": "2",
+              "detail": "Entra en un campo de batalla de hasta 15 jugadores."
+            },
+            {
+              "label": "3",
+              "detail": "Derrota a otros jugadores para avanzar hacia nuevos desbloqueos de héroes."
+            },
+            {
+              "label": "4",
+              "detail": "Consulta la lista en vivo para ver qué héroes tienes disponibles."
+            },
+            {
+              "label": "5",
+              "detail": "Avanza hacia Thanos, el objetivo de desbloqueo del señor de la guerra nombrado."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Consejos de Combate de Superhero Arena",
+          "description": "Mejora tu rendimiento en la arena con consejos prácticos sobre elección de héroe, momento del dash, enfrentamientos y peleas de 15 jugadores.",
+          "href": "/combat/superhero-arena-combat",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Dash",
+              "detail": "Q es el control de Dash documentado; observa su comportamiento en la arena en vivo."
+            },
+            {
+              "label": "Héroe",
+              "detail": "Aprende primero un héroe y lee los avisos de habilidades que muestra la interfaz en vivo."
+            },
+            {
+              "label": "Arena",
+              "detail": "Los servidores admiten hasta 15 jugadores, así que controla a los rivales cercanos."
+            },
+            {
+              "label": "Desbloqueos",
+              "detail": "Derrotar jugadores es la ruta documentada hacia nuevos héroes."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones de Superhero Arena",
+          "description": "Sigue las fechas oficiales del listado de Roblox, los héroes nombrados y los detalles publicados de las actualizaciones de Superhero Arena.",
+          "href": "/guide/superhero-arena-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lanzamiento",
+              "detail": "El listado oficial de Roblox se creó el 6 de septiembre de 2026."
+            },
+            {
+              "label": "Actualización",
+              "detail": "El listado muestra una fecha de actualización del 29 de octubre de 2026."
+            },
+            {
+              "label": "Héroes",
+              "detail": "Spider-Man, Iron Man, Aquaman, Deadpool y más aparecen nombrados como ejemplos de héroes."
+            },
+            {
+              "label": "Parches",
+              "detail": "La página de Roblox no publica notas del parche junto con la marca temporal de actualización."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes sobre Superhero Arena",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Superhero Arena.",
+      "items": [
+        {
+          "question": "¿Qué es Superhero Arena?",
+          "answer": "Superhero Arena es un juego de campos de batalla y lucha de acción de Roblox creado por The Duelists. Los jugadores eligen un héroe, se enfrentan a rivales en servidores de hasta 15 jugadores y derrotan a otros jugadores para desbloquear nuevos héroes, con Thanos como el objetivo a largo plazo nombrado."
+        },
+        {
+          "question": "¿Cómo se desbloquean héroes en Superhero Arena?",
+          "answer": "Derrota a otros jugadores. La página oficial de Roblox confirma que derrotar jugadores desbloquea nuevos héroes y nombra a Thanos como objetivo de señor de la guerra, aunque no indica los umbrales exactos ni el orden de desbloqueo."
+        },
+        {
+          "question": "¿Superhero Arena tiene códigos?",
+          "answer": "La página oficial de Roblox no enumera códigos activos de Superhero Arena ni un menú de introducción de códigos a 29 de octubre de 2026. Evita los generadores de terceros y nunca compartas los datos de tu cuenta de Roblox."
+        },
+        {
+          "question": "¿Qué controles usa Superhero Arena?",
+          "answer": "Q es el control de Dash documentado en Superhero Arena. La página oficial de Roblox no enumera entradas de ataque básico, habilidades de héroe ni vuelo."
+        },
+        {
+          "question": "¿Thanos es el héroe más fuerte de Superhero Arena?",
+          "answer": "Roblox describe a Thanos como el señor de la guerra y objetivo de desbloqueo a largo plazo en Superhero Arena. La página no publica estadísticas ni clasificaciones de héroes, por lo que no existe una clasificación oficial del héroe más fuerte."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para Dominar Superhero Arena?",
+      "description": "Domina cada héroe, habilidad y enfrentamiento de arena con guías gratuitas y actualizadas de la comunidad.",
+      "primary": "Ver Guías de Héroes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de Superhero Arena: Cómo Jugar, Consejos y Actualizaciones",
+    "overviewDescription": "Empieza con los fundamentos verificados de Superhero Arena, incluido el ciclo de la primera sesión, los controles documentados, consejos prácticos e información oficial de las actualizaciones."
+  },
+  "characters": {
+    "overviewTitle": "Héroes de Superhero Arena: Personajes, Habilidades y Lista de Tiers",
+    "overviewDescription": "Explora los héroes de Superhero Arena, ejemplos jugables nombrados, habilidades, rutas de desbloqueo, skins y cobertura de la lista de tiers."
+  },
+  "combat": {
+    "overviewTitle": "Combate de Superhero Arena: PvP, Batallas y Consejos de Arena",
+    "overviewDescription": "Aprende cómo funciona el combate de Superhero Arena, desde las peleas de arena y el ritmo del PvP hasta las decisiones prácticas en una partida de 15 jugadores."
+  },
+  "progression": {
+    "overviewTitle": "Progresión de Superhero Arena: Monedas, Niveles y Mejoras",
+    "overviewDescription": "Sigue las guías de progresión de Superhero Arena sobre monedas, recompensas, niveles y mejoras mientras fortaleces a tus héroes."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Superhero Arena: Estado Verificado y Guía de Canje",
+    "overviewDescription": "Consulta el estado verificado de los códigos de Superhero Arena, averigua si existe un sistema de canje y evita ofertas inseguras de terceros."
+  },
+  "controls": {
+    "overviewTitle": "Controles de Superhero Arena: Teclado, Vuelo y Habilidades",
+    "overviewDescription": "Revisa los controles y habilidades de Superhero Arena, incluida la entrada Q Dash documentada, las dudas sobre el vuelo y las guías de poderes."
+  },
+  "items": {
+    "overviewTitle": "Objetos de Superhero Arena: Skins, Atuendos, Disfraces y Equipamiento",
+    "overviewDescription": "Explora las guías de objetos de Superhero Arena sobre skins, atuendos, disfraces, equipamiento y las opciones cosméticas disponibles para los héroes."
+  },
+  "maps": {
+    "overviewTitle": "Mapas de Superhero Arena: Ubicaciones y Zonas Secretas",
+    "overviewDescription": "Explora las guías de mapas de Superhero Arena con ubicaciones conocidas, diseños de arena y cobertura de zonas secretas."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lectura Relacionada",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Superhero Arena Wiki",
+    "about": "Superhero Arena Wiki es un centro independiente de guías creado por fans que cubre héroes, habilidades, estrategias de combate, modos de arena y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Superhero Arena Wiki. Sin afiliación con The Duelists ni Roblox.",
+    "description": "Juego de combate de superhéroes de Roblox con héroes únicos, habilidades y batallas de arena.",
+    "playGame": "Jugar a Superhero Arena en Roblox",
+    "officialDiscord": "Comunidad de Roblox",
+    "officialYoutube": "Demostración de Juego",
+    "vvBuilder": "Guías de la Wiki de Arena",
+    "beginnerGuide": "Guías para Principiantes",
+    "raceGuides": "Héroes y Habilidades",
+    "bossGuides": "Guías de Arena",
+    "buildGuide": "Habilidades y Builds",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio"
+  }
+}
